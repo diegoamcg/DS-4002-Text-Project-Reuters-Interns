@@ -2,7 +2,7 @@
 DS 4002 Project 1 - Text Project
 
 ## Section 1: Software and platform section
-In this project, we used Python in Google Colab as our coding language. Specificially, we used the Python package spaCy to conduct our analysis. 
+In this project, we used Python in Google Colab as our coding language. Specificially, we used the Python package spaCy to conduct our analysis. Both Mac and Windows were used. 
 
 ## Section 2: Map of Documentation
 - Data
