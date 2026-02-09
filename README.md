@@ -5,11 +5,11 @@ DS 4002 Project 1 - Text Project
 In this project, we used Python in Google Colab as our coding language. Specificially, we used the Python package spaCy to conduct our analysis. 
 
 ## Section 2: Map of Documentation
-- README.md
-- LICENSE.md
-- Scripts 
 - Data
 - Output
+- Scripts
+- LICENSE.md
+- README.md
 
 ## Section 3: Instructions for Reproducibility
 
