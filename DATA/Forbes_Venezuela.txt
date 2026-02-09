@@ -1,0 +1,54 @@
+Venezuelan President Nicolás Maduro was captured by U.S. special forces in Caracas early on January 3 following airstrikes and explosions around the capital, according to multiple news outlets. Within hours, tankers in the Caribbean started altering course. By midday, the diesel crack looked like it was widening. This suggests the market isn't pricing a global supply shock, but the specific risk of a heavy sour crude squeeze.
+
+That distinction matters. Venezuela accounts for less than 1% of global oil consumption, but its Merey 16 crude feeds a small set of complex refineries that cannot easily substitute lighter barrels. As U.S. policy reshapes Venezuelan flows—while selectively allowing some exports to continue—the disruption is exposing a blind spot in market pricing. China, which absorbed most sanctioned Venezuelan barrels over the past several years, faces the sharpest operational, financial, and strategic consequences of a heavy crude squeeze the market has yet to fully price in the new political context.
+
+This operation raises profound questions about international law and U.S. unilateralism. Critics point to potential violations of the UN Charter's prohibition on force, echoing debates over the 2003 Iraq invasion. Repercussions could include strained U.S.-Latin America ties, accelerated migration from Venezuela, and tests of alliances for Russia and China. These broader geopolitical shifts may reshape global norms for years, overshadowing short-term market moves. Yet the energy dimensions remain vital, as disrupted flows expose dependencies in an already volatile crude landscape.
+
+China’s exposure hits three specific areas.
+The first is financial: an estimated $17-19 billion in outstanding principal from China Development Bank's oil-for-loans program, per AidData research. That's the largest single-country commodity-backed position in Beijing's portfolio out of the $60 billion extended since 2007.
+
+The second is operational. Shandong’s independent refiners configured coking units specifically for Venezuelan heavy crude, a grade trading at deep discounts because Western buyers can’t touch it. The third is strategic. Washington just showed it's willing to use kinetic force to disrupt Chinese commodity supply chains in the Americas.
+
+Chevron’s joint ventures keep running under a renewed specific license from Treasury, according to NPR. Data indicates U.S.-bound exports of roughly 150,000 bpd in November 2025, per Reuters data. Valero and Marathon have first call on those barrels. The downstream risk for China is simple: Every Venezuelan barrel reaching American shores is one Beijing must replace from a tighter market at full price.
+
+The Feedstock Cliff
+Position managers at Shandong’s teapots face an immediate question: Where do replacement barrels come from?
+
+Venezuela's exports hit roughly 921,000 bpd in November 2025, according to Reuters, with China taking about 80% of the total (some 746,000 bpd). These barrels often arrived via Malaysia’s ship-to-ship transshipment hubs or through rebranding practices designed to hide their origin. Reuters previously described traders rebranding Venezuelan cargoes as “Brazilian” to bypass transshipment steps.
+
+That channel looks tighter and higher-friction than it did in late 2025. Treasury’s entity-specific designations, which name vessels by IMO number, reduce plausible deniability. The threat environment alone is enough to deter loadings and prompt diversions at the margin.
+
+Substitutes exist, but none replicate the economics. It’s not because Venezuela is unique, but because the replacement set is limited by crude quality, freight and pipeline/tanker logistics.
+
+Merey is genuinely heavy. Crude-profile data sources put it around the mid-teens API (often cited around ~16.6). Merey crude profile Western Canadian Select is also heavy and sour, widely described around the low-20s API band (typically ~19–22 API). WCS crude profile Mexican Maya similarly sits in a heavy-sour range; PMI describes Maya as heavy at ~21–22 API.
+
+The price problem is that discount numbers are moving targets. Differentials swing quickly based on freight, refinery runs and sanctions friction. It’s safer to think in regimes: sanctioned Venezuelan barrels have often cleared at meaningful discounts to benchmarks, but any attempt to pin a tight range (like “$10–13 below Brent”) should be read as time-stamped rather than a stable attribute.
+
+Canadian heavy via the Trans Mountain Pipeline Expansion is a plausible swing barrel since TMX adds 590,000 bpd of Pacific-facing capacity from Alberta, per Reuters. But if Shandong refiners bid more aggressively for Canadian cargoes, the WCS differential could narrow, which raises feedstock costs and tightens supply for US Gulf Coast competitors who also need heavy crude.
+
+Put differently, Valero and Dongming Petrochemical are now competing for the same Canadian molecules. Someone pays more.
+
+The Credit Exposure
+China Development Bank's Venezuela position looks more like a structural write-down risk than a trading loss.
+
+CDB extended over $60 billion since 2007, according to CSIS analysis, secured by future oil shipments rather than sovereign guarantees. The model worked when Venezuela produced 2.4 million bpd, but it broke when output collapsed, falling to as low as 350,000 bpd in 2020 before recovering to roughly 900,000-1.1 million bpd by late 2025, per OPEC and PDVSA data.
+
+CDB granted grace periods, accepted delayed shipments, and rolled over principal. The outstanding balance stabilized at $17-19 billion under assumptions that no longer hold. The Stimson Center notes that China agreed to defer payments repeatedly as Venezuela's repayment capacity eroded.
+
+The collateral is underground, locked behind degraded upgraders, an elevated maritime risk environment, and a transitional government that may invoke odious debt doctrine to subordinate Chinese claims.
+
+Recovery scenarios:
+Scenario A (45%): Pragmatic accommodation. Beijing quietly engages transitional government, negotiates 40-50 cents on the dollar, redirects teapot demand to Canadian and Iraqi grades. Financial loss absorbed to preserve broader trading relationships.
+
+Scenario B (35%): Extended standoff. Beijing refuses recognition, teapots attempt continued sourcing despite vessel designations. U.S. escalates to secondary sanctions on Chinese banks processing Venezuelan-origin payments. Teapot margins collapse within six to nine months.
+
+Scenario C (20%): Venezuelan collapse. Transitional government fails, military factions fragment, production drops below 600,000 bpd. Neither Chinese debt recovery nor American reconstruction succeeds. Heavy sour exits global market for years.
+
+Actor Calculus
+Shandong independents built their margin on sanctions arbitrage by purchasing Venezuelan crude at deep discounts. The model appears increasingly untenable. Dongming, Hengli and peers face margin compression until feedstock slates reconfigure. Some won't survive the transition.
+
+State majors Sinopec and CNPC maintained a deliberate distance from Venezuelan exposure; scholars describe this as a "lender's trap" China created for itself. They now face political pressure to absorb teapot shortfalls, meaning state balance sheets essentially subsidize private operators' stranded positions.
+
+CDB must choose between marking down the portfolio (signaling to Ecuador, Pakistan, and other BRI borrowers that commodity-backed loans can't survive regime change) or extending indefinitely (carrying non-performing assets). Neither option looks attractive.
+
+Beijing leadership condemned the "hegemonic" intervention but needs economic stability. Escalating with Washington over Venezuelan principle invites secondary sanctions targeting Chinese banks' dollar clearing. Pragmatism suggests quiet accommodation, even if it contradicts public rhetoric.
