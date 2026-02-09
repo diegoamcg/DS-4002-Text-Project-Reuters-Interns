@@ -7,8 +7,14 @@ In this project, we used Python in Google Colab as our coding language. To compl
 ## Section 2: Map of Documentation
 - Data
   - Venezuela
+    - Venezuela Text Files
+  - Israel
+    - Israel Text Files
 - Output
+  - Venezuela sentiment scores
+  - Israel sentiment scores
 - Scripts
+  - Model notebook
 - LICENSE.md
 - README.md
 
