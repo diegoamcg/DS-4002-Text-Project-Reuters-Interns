@@ -6,6 +6,8 @@ In this project, we used Python in Google Colab as our coding language. Specific
 
 ## Section 2: Map of Documentation
 - Data
+  _Venezuela
+  
 - Output
 - Scripts
 - LICENSE.md
