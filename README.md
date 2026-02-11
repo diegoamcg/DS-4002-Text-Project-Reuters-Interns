@@ -20,6 +20,7 @@ In this project, we used Python in Google Colab as our coding language. To compl
 
 ## Section 3: Instructions for Reproducibility
 1. Download text files
-2. Load files into scripts -> run through model notebook
-3. Interpret results
-
+2. Load files into scripts -> run through spaCy model notebook
+3. Create a CSV with all sentiment scores for both Israel-Gaza and Venezuela
+4. Upload CSV to MANOVA Analysis notebook -> run through the notebook
+5. Interpret statistical results
