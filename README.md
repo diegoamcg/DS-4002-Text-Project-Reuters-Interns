@@ -10,6 +10,7 @@ In this project, we used Python in Google Colab as our coding language. To compl
     - Venezuela Text Files
   - Israel
     - Israel Text Files
+  - Data Appendix PDF
 - Output
   - Venezuela sentiment scores
   - Israel sentiment scores
