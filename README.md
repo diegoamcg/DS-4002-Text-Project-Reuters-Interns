@@ -14,6 +14,9 @@ In this project, we used Python in Google Colab as our coding language. To compl
 - Output
   - Venezuela sentiment scores
   - Israel sentiment scores
+  - Combined sentiment scores
+  - Sentiment EDA notebook
+  - MANOVA analysis image
 - Scripts
   - Sentiment_Analysis_Model notebook
   - MANOVA Analysis notebook
